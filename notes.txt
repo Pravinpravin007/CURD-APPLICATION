@@ -1,0 +1,23 @@
+
+//node js installation
+
+npm init -y
+npm i express cors
+npm i nodemon -d
+npm start
+
+
+//React js installation
+
+
+npm create vite@latest client
+npm install
+npm i axios
+npm run dev
+
+
+// Github
+
+git init
+git remote add origin https://github.com/your-username/crud-app.git
+git add .

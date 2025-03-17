@@ -1,0 +1,13 @@
+[ 
+{ "id": 1, "name": "Pravin", "age": 23, "city": "Madurai"}, 
+{ "id": 2, "name": "Subha", "age": 23, "city": "Madurai" }, 
+{ "id": 3, "name": "Atchaya", "age": 19, "city": "Banglore"}, 
+{ "id": 4, "name": "Deena", "age": 38, "city": "Namakkal" }, 
+{ "id": 5, "name": "Chakkaravarthi", "age": 45, "city": "Salem"}, 
+{ "id": 6, "name": "Bala sundari", "age": 35, "city": "Salem"}, 
+{ "id": 7, "name": "Mudhazhagu", "age": 24, "city": "Chennai" }, 
+{ "id": 8, "name": "Pandi", "age": 23, "city": "Banglore"}, 
+{ "id": 9, "name": "Suriya Prakesh", "age": 25, "city": "Hosure" }, 
+{ "id": 10, "name": "Prakesh", "age": 25, "city": "Chennai" },
+{ "id": 11, "name": "Mani", "age": 25, "city": "coimbatore" }
+] 
