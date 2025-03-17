@@ -21,3 +21,5 @@ npm run dev
 git init
 git remote add origin https://github.com/your-username/crud-app.git
 git add .
+git commit -m "Initial commit - CRUD app"
+git branch -M main
